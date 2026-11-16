@@ -14,8 +14,10 @@ Datasheets for trial chips:
 
 IMU:
 
-(same as university project)
+(slightly older version of one used for uni project)
 https://www.digikey.co.nz/en/products/detail/stmicroelectronics/LSM6DSLTR/6192804
+
+- I would also like to try using an MPU6050, since they have been so widely used. Even though they are quite old. No stock at digikey however.
 
 Barometer:
 
