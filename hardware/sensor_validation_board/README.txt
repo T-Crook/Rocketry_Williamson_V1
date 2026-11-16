@@ -1,6 +1,6 @@
 This file documents the macro decisions related to the MEMS sensor validation for the Williamson rocket v1 flight computer.
 
-On a previous flight computer project at university we ran into major issues with the reliability of both the barometer (BMP585) and IMU (LSM6DSOX). We believe this was an issue with our soldering/assembly. This sensor validation board is designed to test the flight computer chips before we commit to sensor selection. 
+On a previous flight computer project at university we ran into major issues with the reliability of both the barometer (BMP585) and IMU (LSM6DSO32). We believe this was an issue with our soldering/assembly. This sensor validation board is designed to test the flight computer chips before we commit to sensor selection. 
 
 Requirements:
 
